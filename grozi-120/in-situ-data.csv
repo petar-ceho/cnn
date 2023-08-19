@@ -1,0 +1,481 @@
+file_name,fold,class_names,class_labels
+video1.png,1,Bausch & Lomb Renu All in One Multi Purpose Solution,0
+video2.png,1,Bausch & Lomb Renu All in One Multi Purpose Solution,0
+video3.png,1,Bausch & Lomb Renu All in One Multi Purpose Solution,0
+video4.png,1,Bausch & Lomb Renu All in One Multi Purpose Solution,0
+video1.png,2,Chex Mix,1
+video2.png,2,Chex Mix,1
+video3.png,2,Chex Mix,1
+video4.png,2,Chex Mix,1
+video1.png,3,Gardetto's Original Recipe,2
+video2.png,3,Gardetto's Original Recipe,2
+video3.png,3,Gardetto's Original Recipe,2
+video4.png,3,Gardetto's Original Recipe,2
+video1.png,4,Honey Nut Cheerios (General Mills),3
+video2.png,4,Honey Nut Cheerios (General Mills),3
+video3.png,4,Honey Nut Cheerios (General Mills),3
+video4.png,4,Honey Nut Cheerios (General Mills),3
+video1.png,5,Wrigleys Extra peppermint gum,4
+video2.png,5,Wrigleys Extra peppermint gum,4
+video3.png,5,Wrigleys Extra peppermint gum,4
+video4.png,5,Wrigleys Extra peppermint gum,4
+video1.png,6,doublemint gum,5
+video2.png,6,doublemint gum,5
+video3.png,6,doublemint gum,5
+video4.png,6,doublemint gum,5
+video1.png,7,big red gum,6
+video2.png,7,big red gum,6
+video3.png,7,big red gum,6
+video4.png,7,big red gum,6
+video1.png,8,Vicks DayQuil LiquiCaps,7
+video2.png,8,Vicks DayQuil LiquiCaps,7
+video3.png,8,Vicks DayQuil LiquiCaps,7
+video4.png,8,Vicks DayQuil LiquiCaps,7
+video1.png,9,Cheez-It,8
+video2.png,9,Cheez-It,8
+video3.png,9,Cheez-It,8
+video4.png,9,Cheez-It,8
+video1.png,10,Hershey Milk Chocolate with Almonds,9
+video2.png,10,Hershey Milk Chocolate with Almonds,9
+video3.png,10,Hershey Milk Chocolate with Almonds,9
+video4.png,10,Hershey Milk Chocolate with Almonds,9
+video1.png,11,Twix Cookie Bar,10
+video2.png,11,Twix Cookie Bar,10
+video3.png,11,Twix Cookie Bar,10
+video4.png,11,Twix Cookie Bar,10
+video1.png,12,Snickers,11
+video2.png,12,Snickers,11
+video3.png,12,Snickers,11
+video4.png,12,Snickers,11
+video1.png,13,CLOROX ULTRA LIQUID REG,12
+video2.png,13,CLOROX ULTRA LIQUID REG,12
+video3.png,13,CLOROX ULTRA LIQUID REG,12
+video4.png,13,CLOROX ULTRA LIQUID REG,12
+video1.png,14,CLOROX 2 LIQUID 44 OZ,13
+video2.png,14,CLOROX 2 LIQUID 44 OZ,13
+video3.png,14,CLOROX 2 LIQUID 44 OZ,13
+video4.png,14,CLOROX 2 LIQUID 44 OZ,13
+video1.png,15,Gatorade Lemon-Lime,14
+video2.png,15,Gatorade Lemon-Lime,14
+video3.png,15,Gatorade Lemon-Lime,14
+video4.png,15,Gatorade Lemon-Lime,14
+video1.png,16,SNYDER PRETZEL OLD TYME,15
+video2.png,16,SNYDER PRETZEL OLD TYME,15
+video3.png,16,SNYDER PRETZEL OLD TYME,15
+video4.png,16,SNYDER PRETZEL OLD TYME,15
+video1.png,17,POCKETCOMB,16
+video2.png,17,POCKETCOMB,16
+video3.png,17,POCKETCOMB,16
+video4.png,17,POCKETCOMB,16
+video1.png,18,Motrin IB Ibuprofen Tablets USP,17
+video2.png,18,Motrin IB Ibuprofen Tablets USP,17
+video3.png,18,Motrin IB Ibuprofen Tablets USP,17
+video4.png,18,Motrin IB Ibuprofen Tablets USP,17
+video1.png,19,Neosporin Original,18
+video2.png,19,Neosporin Original,18
+video3.png,19,Neosporin Original,18
+video4.png,19,Neosporin Original,18
+video1.png,20,El Sabroso Salsitas Salsa Chips,19
+video2.png,20,El Sabroso Salsitas Salsa Chips,19
+video3.png,20,El Sabroso Salsitas Salsa Chips,19
+video4.png,20,El Sabroso Salsitas Salsa Chips,19
+video1.png,21,Tic Tac Wintergreen,20
+video2.png,21,Tic Tac Wintergreen,20
+video3.png,21,Tic Tac Wintergreen,20
+video4.png,21,Tic Tac Wintergreen,20
+video1.png,22,DENTYNE ICE ARTIC CHILL,21
+video2.png,22,DENTYNE ICE ARTIC CHILL,21
+video3.png,22,DENTYNE ICE ARTIC CHILL,21
+video4.png,22,DENTYNE ICE ARTIC CHILL,21
+video1.png,23,Certs Peppermint,22
+video2.png,23,Certs Peppermint,22
+video3.png,23,Certs Peppermint,22
+video4.png,23,Certs Peppermint,22
+video1.png,24,"Genuine BAYER Aspirin, tablets (325 mg)",23
+video2.png,24,"Genuine BAYER Aspirin, tablets (325 mg)",23
+video3.png,24,"Genuine BAYER Aspirin, tablets (325 mg)",23
+video4.png,24,"Genuine BAYER Aspirin, tablets (325 mg)",23
+video1.png,25,Nissin Ramen Noodles - Chicken,24
+video2.png,25,Nissin Ramen Noodles - Chicken,24
+video3.png,25,Nissin Ramen Noodles - Chicken,24
+video4.png,25,Nissin Ramen Noodles - Chicken,24
+video1.png,26,26OZ BLUE WINDEX,25
+video2.png,26,26OZ BLUE WINDEX,25
+video3.png,26,26OZ BLUE WINDEX,25
+video4.png,26,26OZ BLUE WINDEX,25
+video1.png,27,"Morton Salt, Iodized",26
+video2.png,27,"Morton Salt, Iodized",26
+video3.png,27,"Morton Salt, Iodized",26
+video4.png,27,"Morton Salt, Iodized",26
+video1.png,28,Ziploc Sandwich Bags,27
+video2.png,28,Ziploc Sandwich Bags,27
+video3.png,28,Ziploc Sandwich Bags,27
+video4.png,28,Ziploc Sandwich Bags,27
+video1.png,29,Aleve Caplets,28
+video2.png,29,Aleve Caplets,28
+video3.png,29,Aleve Caplets,28
+video4.png,29,Aleve Caplets,28
+video1.png,30,Kit Kat King Size,29
+video2.png,30,Kit Kat King Size,29
+video3.png,30,Kit Kat King Size,29
+video4.png,30,Kit Kat King Size,29
+video1.png,31,Reese's Pieces,30
+video2.png,31,Reese's Pieces,30
+video3.png,31,Reese's Pieces,30
+video4.png,31,Reese's Pieces,30
+video1.png,32,Kleenex Tissue,31
+video2.png,32,Kleenex Tissue,31
+video3.png,32,Kleenex Tissue,31
+video4.png,32,Kleenex Tissue,31
+video1.png,33,Chap Stick Lip Balm,32
+video2.png,33,Chap Stick Lip Balm,32
+video3.png,33,Chap Stick Lip Balm,32
+video4.png,33,Chap Stick Lip Balm,32
+video1.png,34,REGULAR 33OZ TIDE POWDER,33
+video2.png,34,REGULAR 33OZ TIDE POWDER,33
+video3.png,34,REGULAR 33OZ TIDE POWDER,33
+video4.png,34,REGULAR 33OZ TIDE POWDER,33
+video1.png,35,Pringles Sour Cream & Onion,34
+video2.png,35,Pringles Sour Cream & Onion,34
+video3.png,35,Pringles Sour Cream & Onion,34
+video4.png,35,Pringles Sour Cream & Onion,34
+video1.png,36,Pringles Pizza-licious,35
+video2.png,36,Pringles Pizza-licious,35
+video3.png,36,Pringles Pizza-licious,35
+video4.png,36,Pringles Pizza-licious,35
+video1.png,37,Starburst Original Fruit,36
+video2.png,37,Starburst Original Fruit,36
+video3.png,37,Starburst Original Fruit,36
+video4.png,37,Starburst Original Fruit,36
+video1.png,38,Skittles (Original),37
+video2.png,38,Skittles (Original),37
+video3.png,38,Skittles (Original),37
+video4.png,38,Skittles (Original),37
+video1.png,39,Claritin Allergy,38
+video2.png,39,Claritin Allergy,38
+video3.png,39,Claritin Allergy,38
+video4.png,39,Claritin Allergy,38
+video1.png,40,French's Classic Yellow Mustard,39
+video2.png,40,French's Classic Yellow Mustard,39
+video3.png,40,French's Classic Yellow Mustard,39
+video4.png,40,French's Classic Yellow Mustard,39
+video1.png,41,FORMULA 409,40
+video2.png,41,FORMULA 409,40
+video3.png,41,FORMULA 409,40
+video4.png,41,FORMULA 409,40
+video1.png,42,Monster Energy Beverage,41
+video2.png,42,Monster Energy Beverage,41
+video3.png,42,Monster Energy Beverage,41
+video4.png,42,Monster Energy Beverage,41
+video1.png,43,Mentos (Mint),42
+video2.png,43,Mentos (Mint),42
+video3.png,43,Mentos (Mint),42
+video4.png,43,Mentos (Mint),42
+video1.png,44,Tapatio - Salsa Picante,43
+video2.png,44,Tapatio - Salsa Picante,43
+video3.png,44,Tapatio - Salsa Picante,43
+video4.png,44,Tapatio - Salsa Picante,43
+video1.png,45,Dove Anti-Perspirant/Deodorant Fresh Invisible Solid,44
+video2.png,45,Dove Anti-Perspirant/Deodorant Fresh Invisible Solid,44
+video3.png,45,Dove Anti-Perspirant/Deodorant Fresh Invisible Solid,44
+video4.png,45,Dove Anti-Perspirant/Deodorant Fresh Invisible Solid,44
+video1.png,46,Band-Aid flexible fabric,45
+video2.png,46,Band-Aid flexible fabric,45
+video3.png,46,Band-Aid flexible fabric,45
+video4.png,46,Band-Aid flexible fabric,45
+video1.png,47,CARMEX EZ-ON APPLICATOR,46
+video2.png,47,CARMEX EZ-ON APPLICATOR,46
+video3.png,47,CARMEX EZ-ON APPLICATOR,46
+video4.png,47,CARMEX EZ-ON APPLICATOR,46
+video1.png,48,diet ROCKSTAR Energy Drink,47
+video2.png,48,diet ROCKSTAR Energy Drink,47
+video3.png,48,diet ROCKSTAR Energy Drink,47
+video4.png,48,diet ROCKSTAR Energy Drink,47
+video1.png,49,VICKS NYQUIL COUGH CHERRY 6 OZ,48
+video2.png,49,VICKS NYQUIL COUGH CHERRY 6 OZ,48
+video3.png,49,VICKS NYQUIL COUGH CHERRY 6 OZ,48
+video4.png,49,VICKS NYQUIL COUGH CHERRY 6 OZ,48
+video1.png,50,Nestle Crunch,49
+video2.png,50,Nestle Crunch,49
+video3.png,50,Nestle Crunch,49
+video4.png,50,Nestle Crunch,49
+video1.png,51,Lay's Classic,50
+video2.png,51,Lay's Classic,50
+video3.png,51,Lay's Classic,50
+video4.png,51,Lay's Classic,50
+video1.png,52,ARM + HAMMER BAKING SODA,51
+video2.png,52,ARM + HAMMER BAKING SODA,51
+video3.png,52,ARM + HAMMER BAKING SODA,51
+video4.png,52,ARM + HAMMER BAKING SODA,51
+video1.png,53,MARTINELLI APPLE JUICE,52
+video2.png,53,MARTINELLI APPLE JUICE,52
+video3.png,53,MARTINELLI APPLE JUICE,52
+video4.png,53,MARTINELLI APPLE JUICE,52
+video1.png,54,Diet Coke with Lime,53
+video2.png,54,Diet Coke with Lime,53
+video3.png,54,Diet Coke with Lime,53
+video4.png,54,Diet Coke with Lime,53
+video1.png,55,Sprite 12oz Can,54
+video2.png,55,Sprite 12oz Can,54
+video3.png,55,Sprite 12oz Can,54
+video4.png,55,Sprite 12oz Can,54
+video1.png,56,Propel Fitness Water,55
+video2.png,56,Propel Fitness Water,55
+video3.png,56,Propel Fitness Water,55
+video4.png,56,Propel Fitness Water,55
+video1.png,57,AVIATOR POKER CARDS,56
+video2.png,57,AVIATOR POKER CARDS,56
+video3.png,57,AVIATOR POKER CARDS,56
+video4.png,57,AVIATOR POKER CARDS,56
+video1.png,58,Act II Butter Lover's Popcorn,57
+video2.png,58,Act II Butter Lover's Popcorn,57
+video3.png,58,Act II Butter Lover's Popcorn,57
+video4.png,58,Act II Butter Lover's Popcorn,57
+video1.png,59,Dr Pepper,58
+video2.png,59,Dr Pepper,58
+video3.png,59,Dr Pepper,58
+video4.png,59,Dr Pepper,58
+video1.png,60,Tylenol PM Gelcaps Extra Strength,59
+video2.png,60,Tylenol PM Gelcaps Extra Strength,59
+video3.png,60,Tylenol PM Gelcaps Extra Strength,59
+video4.png,60,Tylenol PM Gelcaps Extra Strength,59
+video1.png,61,Red Bull Sugarfree,60
+video2.png,61,Red Bull Sugarfree,60
+video3.png,61,Red Bull Sugarfree,60
+video4.png,61,Red Bull Sugarfree,60
+video1.png,62,"Blistex ""Silk & Shine"" Lip gloss and sunscreen SPF 15",61
+video2.png,62,"Blistex ""Silk & Shine"" Lip gloss and sunscreen SPF 15",61
+video3.png,62,"Blistex ""Silk & Shine"" Lip gloss and sunscreen SPF 15",61
+video4.png,62,"Blistex ""Silk & Shine"" Lip gloss and sunscreen SPF 15",61
+video1.png,63,NYQUIL LQCAPS PSE FREE 12 CT,62
+video2.png,63,NYQUIL LQCAPS PSE FREE 12 CT,62
+video3.png,63,NYQUIL LQCAPS PSE FREE 12 CT,62
+video4.png,63,NYQUIL LQCAPS PSE FREE 12 CT,62
+video1.png,64,LINDOR CANDY,63
+video2.png,64,LINDOR CANDY,63
+video3.png,64,LINDOR CANDY,63
+video4.png,64,LINDOR CANDY,63
+video1.png,65,Lindt Excellence 70% Cocoa Dark Chocolate,64
+video2.png,65,Lindt Excellence 70% Cocoa Dark Chocolate,64
+video3.png,65,Lindt Excellence 70% Cocoa Dark Chocolate,64
+video4.png,65,Lindt Excellence 70% Cocoa Dark Chocolate,64
+video1.png,66,Haribo Gold-Bears Gummi Candy,65
+video2.png,66,Haribo Gold-Bears Gummi Candy,65
+video3.png,66,Haribo Gold-Bears Gummi Candy,65
+video4.png,66,Haribo Gold-Bears Gummi Candy,65
+video1.png,67,Ritter Sport White Chocolate with Whole Hazelnuts,66
+video2.png,67,Ritter Sport White Chocolate with Whole Hazelnuts,66
+video3.png,67,Ritter Sport White Chocolate with Whole Hazelnuts,66
+video4.png,67,Ritter Sport White Chocolate with Whole Hazelnuts,66
+video1.png,68,TOBLERONE MILK CHOCOLATE,67
+video2.png,68,TOBLERONE MILK CHOCOLATE,67
+video3.png,68,TOBLERONE MILK CHOCOLATE,67
+video4.png,68,TOBLERONE MILK CHOCOLATE,67
+video1.png,69,Manner Milk Chocolate Cream Filled Wafers,68
+video2.png,69,Manner Milk Chocolate Cream Filled Wafers,68
+video3.png,69,Manner Milk Chocolate Cream Filled Wafers,68
+video4.png,69,Manner Milk Chocolate Cream Filled Wafers,68
+video1.png,70,PEPPERIDGE FARM MILK CHOCOLATE MACADAMIA COOKIES,69
+video2.png,70,PEPPERIDGE FARM MILK CHOCOLATE MACADAMIA COOKIES,69
+video3.png,70,PEPPERIDGE FARM MILK CHOCOLATE MACADAMIA COOKIES,69
+video4.png,70,PEPPERIDGE FARM MILK CHOCOLATE MACADAMIA COOKIES,69
+video1.png,71,"Pepperidge Farm Milano Cookies, Double Chocolate",70
+video2.png,71,"Pepperidge Farm Milano Cookies, Double Chocolate",70
+video3.png,71,"Pepperidge Farm Milano Cookies, Double Chocolate",70
+video4.png,71,"Pepperidge Farm Milano Cookies, Double Chocolate",70
+video1.png,72,Tylenol  Extra Strength Caplets,71
+video2.png,72,Tylenol  Extra Strength Caplets,71
+video3.png,72,Tylenol  Extra Strength Caplets,71
+video4.png,72,Tylenol  Extra Strength Caplets,71
+video1.png,73,Frappuccino Coffee,72
+video2.png,73,Frappuccino Coffee,72
+video3.png,73,Frappuccino Coffee,72
+video4.png,73,Frappuccino Coffee,72
+video1.png,74,Yoo-Hoo Chocolate Drink,73
+video2.png,74,Yoo-Hoo Chocolate Drink,73
+video3.png,74,Yoo-Hoo Chocolate Drink,73
+video4.png,74,Yoo-Hoo Chocolate Drink,73
+video1.png,75,Bull's-Eye BBQ Sauce Original,74
+video2.png,75,Bull's-Eye BBQ Sauce Original,74
+video3.png,75,Bull's-Eye BBQ Sauce Original,74
+video4.png,75,Bull's-Eye BBQ Sauce Original,74
+video1.png,76,Symphony with almonds and toffee chips,75
+video2.png,76,Symphony with almonds and toffee chips,75
+video3.png,76,Symphony with almonds and toffee chips,75
+video4.png,76,Symphony with almonds and toffee chips,75
+video1.png,77,Nabisco Nilla Wafers,76
+video2.png,77,Nabisco Nilla Wafers,76
+video3.png,77,Nabisco Nilla Wafers,76
+video4.png,77,Nabisco Nilla Wafers,76
+video1.png,78,BEEF JERKY,77
+video2.png,78,BEEF JERKY,77
+video3.png,78,BEEF JERKY,77
+video4.png,78,BEEF JERKY,77
+video1.png,79,David Sunflower Seeds,78
+video2.png,79,David Sunflower Seeds,78
+video3.png,79,David Sunflower Seeds,78
+video4.png,79,David Sunflower Seeds,78
+video1.png,80,Hunt's Tomato Sauce,79
+video2.png,80,Hunt's Tomato Sauce,79
+video3.png,80,Hunt's Tomato Sauce,79
+video4.png,80,Hunt's Tomato Sauce,79
+video1.png,81,kotex lightdays,80
+video2.png,81,kotex lightdays,80
+video3.png,81,kotex lightdays,80
+video4.png,81,kotex lightdays,80
+video1.png,82,Always thin pantiliners,81
+video2.png,82,Always thin pantiliners,81
+video3.png,82,Always thin pantiliners,81
+video4.png,82,Always thin pantiliners,81
+video1.png,83,Liption Tea,82
+video2.png,83,Liption Tea,82
+video3.png,83,Liption Tea,82
+video4.png,83,Liption Tea,82
+video1.png,84,Soft Scrub with Bleach Cleanser,83
+video2.png,84,Soft Scrub with Bleach Cleanser,83
+video3.png,84,Soft Scrub with Bleach Cleanser,83
+video4.png,84,Soft Scrub with Bleach Cleanser,83
+video1.png,85,RAID Flying Insect Killer,84
+video2.png,85,RAID Flying Insect Killer,84
+video3.png,85,RAID Flying Insect Killer,84
+video4.png,85,RAID Flying Insect Killer,84
+video1.png,86,SHOUT LAUNDRY STAIN REMOVER,85
+video2.png,86,SHOUT LAUNDRY STAIN REMOVER,85
+video3.png,86,SHOUT LAUNDRY STAIN REMOVER,85
+video4.png,86,SHOUT LAUNDRY STAIN REMOVER,85
+video1.png,87,"Gillette Foamy Shaving Cream, Regular",86
+video2.png,87,"Gillette Foamy Shaving Cream, Regular",86
+video3.png,87,"Gillette Foamy Shaving Cream, Regular",86
+video4.png,87,"Gillette Foamy Shaving Cream, Regular",86
+video1.png,88,Campbell's Tomato Soup - Microwavable bowl,87
+video2.png,88,Campbell's Tomato Soup - Microwavable bowl,87
+video3.png,88,Campbell's Tomato Soup - Microwavable bowl,87
+video4.png,88,Campbell's Tomato Soup - Microwavable bowl,87
+video1.png,89,Vivarin,88
+video2.png,89,Vivarin,88
+video3.png,89,Vivarin,88
+video4.png,89,Vivarin,88
+video1.png,90,Chef Boyardee Beef Ravioli,89
+video2.png,90,Chef Boyardee Beef Ravioli,89
+video3.png,90,Chef Boyardee Beef Ravioli,89
+video4.png,90,Chef Boyardee Beef Ravioli,89
+video1.png,91,LIFESTYLES ULTRA SENSITIVE,90
+video2.png,91,LIFESTYLES ULTRA SENSITIVE,90
+video3.png,91,LIFESTYLES ULTRA SENSITIVE,90
+video4.png,91,LIFESTYLES ULTRA SENSITIVE,90
+video1.png,92,Crystal Geyser Water,91
+video2.png,92,Crystal Geyser Water,91
+video3.png,92,Crystal Geyser Water,91
+video4.png,92,Crystal Geyser Water,91
+video1.png,93,Luna Bar nutz chocolate,92
+video2.png,93,Luna Bar nutz chocolate,92
+video3.png,93,Luna Bar nutz chocolate,92
+video4.png,93,Luna Bar nutz chocolate,92
+video1.png,94,KELL RAISIN BRAN 15 OZ 121459,93
+video2.png,94,KELL RAISIN BRAN 15 OZ 121459,93
+video3.png,94,KELL RAISIN BRAN 15 OZ 121459,93
+video4.png,94,KELL RAISIN BRAN 15 OZ 121459,93
+video1.png,95,GM HNY NUT CHEERIOS CEREAL CUP,94
+video2.png,95,GM HNY NUT CHEERIOS CEREAL CUP,94
+video3.png,95,GM HNY NUT CHEERIOS CEREAL CUP,94
+video4.png,95,GM HNY NUT CHEERIOS CEREAL CUP,94
+video1.png,96,Pepto-Bismol,95
+video2.png,96,Pepto-Bismol,95
+video3.png,96,Pepto-Bismol,95
+video4.png,96,Pepto-Bismol,95
+video1.png,97,PEPTO BISMOL CHERRY TAB 30 CT,96
+video2.png,97,PEPTO BISMOL CHERRY TAB 30 CT,96
+video3.png,97,PEPTO BISMOL CHERRY TAB 30 CT,96
+video4.png,97,PEPTO BISMOL CHERRY TAB 30 CT,96
+video1.png,98,Tabasco Brand Pepper Sauce,97
+video2.png,98,Tabasco Brand Pepper Sauce,97
+video3.png,98,Tabasco Brand Pepper Sauce,97
+video4.png,98,Tabasco Brand Pepper Sauce,97
+video1.png,99,alka Seltzer Plus cold,98
+video2.png,99,alka Seltzer Plus cold,98
+video3.png,99,alka Seltzer Plus cold,98
+video4.png,99,alka Seltzer Plus cold,98
+video1.png,100,Jack Links: Extreme Snack Stick,99
+video2.png,100,Jack Links: Extreme Snack Stick,99
+video3.png,100,Jack Links: Extreme Snack Stick,99
+video4.png,100,Jack Links: Extreme Snack Stick,99
+video1.png,101,TROJAN ULTRA FIT CONDOMS,100
+video2.png,101,TROJAN ULTRA FIT CONDOMS,100
+video3.png,101,TROJAN ULTRA FIT CONDOMS,100
+video4.png,101,TROJAN ULTRA FIT CONDOMS,100
+video1.png,102,Trojan-Enz lubricated condoms,101
+video2.png,102,Trojan-Enz lubricated condoms,101
+video3.png,102,Trojan-Enz lubricated condoms,101
+video4.png,102,Trojan-Enz lubricated condoms,101
+video1.png,103,colgate plus toothbrush,102
+video2.png,103,colgate plus toothbrush,102
+video3.png,103,colgate plus toothbrush,102
+video4.png,103,colgate plus toothbrush,102
+video1.png,104,Nabisco Wheat Thins Crackers Original,103
+video2.png,104,Nabisco Wheat Thins Crackers Original,103
+video3.png,104,Nabisco Wheat Thins Crackers Original,103
+video4.png,104,Nabisco Wheat Thins Crackers Original,103
+video1.png,105,"Mountain Dew, Single Bottle",104
+video2.png,105,"Mountain Dew, Single Bottle",104
+video3.png,105,"Mountain Dew, Single Bottle",104
+video4.png,105,"Mountain Dew, Single Bottle",104
+video1.png,106,GUMMI FROGS,105
+video2.png,106,GUMMI FROGS,105
+video3.png,106,GUMMI FROGS,105
+video4.png,106,GUMMI FROGS,105
+video1.png,107,Mini Chips Ahoy!,106
+video2.png,107,Mini Chips Ahoy!,106
+video3.png,107,Mini Chips Ahoy!,106
+video4.png,107,Mini Chips Ahoy!,106
+video1.png,108,Jif Creamy Peanut Butter,107
+video2.png,108,Jif Creamy Peanut Butter,107
+video3.png,108,Jif Creamy Peanut Butter,107
+video4.png,108,Jif Creamy Peanut Butter,107
+video1.png,109,"Glade Potpourri Spray ,Powder Fresh ,9oz.",108
+video2.png,109,"Glade Potpourri Spray ,Powder Fresh ,9oz.",108
+video3.png,109,"Glade Potpourri Spray ,Powder Fresh ,9oz.",108
+video4.png,109,"Glade Potpourri Spray ,Powder Fresh ,9oz.",108
+video1.png,110,Campbells Cream of Chicken soup,109
+video2.png,110,Campbells Cream of Chicken soup,109
+video3.png,110,Campbells Cream of Chicken soup,109
+video4.png,110,Campbells Cream of Chicken soup,109
+video1.png,111,CAMPBELL CHUNKY CLASSIC CHICKEN NOODLE,110
+video2.png,111,CAMPBELL CHUNKY CLASSIC CHICKEN NOODLE,110
+video3.png,111,CAMPBELL CHUNKY CLASSIC CHICKEN NOODLE,110
+video4.png,111,CAMPBELL CHUNKY CLASSIC CHICKEN NOODLE,110
+video1.png,112,A-1 STEAK SAUCE,111
+video2.png,112,A-1 STEAK SAUCE,111
+video3.png,112,A-1 STEAK SAUCE,111
+video4.png,112,A-1 STEAK SAUCE,111
+video1.png,113,Rockstar Energy Drink,112
+video2.png,113,Rockstar Energy Drink,112
+video3.png,113,Rockstar Energy Drink,112
+video4.png,113,Rockstar Energy Drink,112
+video1.png,114,KODAK COLOR SLIDE 100 EB135-36,113
+video2.png,114,KODAK COLOR SLIDE 100 EB135-36,113
+video3.png,114,KODAK COLOR SLIDE 100 EB135-36,113
+video4.png,114,KODAK COLOR SLIDE 100 EB135-36,113
+video1.png,115,Tostitos Scoops,114
+video2.png,115,Tostitos Scoops,114
+video3.png,115,Tostitos Scoops,114
+video4.png,115,Tostitos Scoops,114
+video1.png,116,RITTER CAPPUCCINO 100G,115
+video2.png,116,RITTER CAPPUCCINO 100G,115
+video3.png,116,RITTER CAPPUCCINO 100G,115
+video4.png,116,RITTER CAPPUCCINO 100G,115
+video1.png,117,Sour Cream & Onion Ruffles,116
+video2.png,117,Sour Cream & Onion Ruffles,116
+video3.png,117,Sour Cream & Onion Ruffles,116
+video4.png,117,Sour Cream & Onion Ruffles,116
+video1.png,118,Ben & Jerry's Ice Cream World's Best Vanilla,117
+video2.png,118,Ben & Jerry's Ice Cream World's Best Vanilla,117
+video3.png,118,Ben & Jerry's Ice Cream World's Best Vanilla,117
+video4.png,118,Ben & Jerry's Ice Cream World's Best Vanilla,117
+video1.png,119,Nabisco Flavor Crisps/Flavor Originals Snack Crackers Baked Vegetable Thins,118
+video2.png,119,Nabisco Flavor Crisps/Flavor Originals Snack Crackers Baked Vegetable Thins,118
+video3.png,119,Nabisco Flavor Crisps/Flavor Originals Snack Crackers Baked Vegetable Thins,118
+video4.png,119,Nabisco Flavor Crisps/Flavor Originals Snack Crackers Baked Vegetable Thins,118
+video1.png,120,Yoplait Yogurt Original Strawberry Banana 99% Fat Free S70,119
+video2.png,120,Yoplait Yogurt Original Strawberry Banana 99% Fat Free S70,119
+video3.png,120,Yoplait Yogurt Original Strawberry Banana 99% Fat Free S70,119
+video4.png,120,Yoplait Yogurt Original Strawberry Banana 99% Fat Free S70,119
